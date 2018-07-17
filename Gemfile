@@ -6,6 +6,7 @@ gem "hashie"
 gem "awesome_print"
 
 gem "pry" , :group => "development"
+
   group :test do
     gem "rspec"
   end
